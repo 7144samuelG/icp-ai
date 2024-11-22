@@ -1,1 +1,1 @@
-to get your gemini api key 
+All you need is a gemini api key and paste it in env.local
