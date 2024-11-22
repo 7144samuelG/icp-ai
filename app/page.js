@@ -40,8 +40,7 @@ export default function Home() {
             WELCOME TO ACME ARTICLE GENERATOR DAPP
           </p>
           <p className="pb-8">
-            Paste your text and Translate your text into over 50 main languages
-            in the world and copy it{" "}
+            Paste your text and we generate article based on it and copy it{" "}
           </p>
           {user ? (
             <>
