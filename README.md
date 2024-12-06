@@ -9,13 +9,7 @@ A powerful Article Generator DApp built using Juno, the Internet Computer Protoc
 - [About](#about)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## About
 
@@ -33,7 +27,7 @@ This Article Generator DApp leverages the power of AI and blockchain technology 
 To get started with the Article Generator DApp, follow these steps:
 
 1. Clone the repository:
-` git clone https://github.com/7144samuelG/icp-a
+` git clone https://github.com/7144samuelG/icp-ai
 `
 
 
@@ -45,7 +39,7 @@ To get started with the Article Generator DApp, follow these steps:
 
 3. Set up environment variables:
    - navigate to  `.env.local` file in the root directory
-   - Add your Gemini API key: frm google
+   - Add your Gemini API key: from google
   
    
 4. Start the development server by running
