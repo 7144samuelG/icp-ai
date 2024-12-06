@@ -27,14 +27,16 @@ This Article Generator DApp leverages the power of AI and blockchain technology 
 To get started with the Article Generator DApp, follow these steps:
 
 1. Clone the repository:
-` git clone https://github.com/7144samuelG/icp-ai
-`
+```
+   git clone https://github.com/7144samuelG/icp-ai
+
+```
 
 
 2. Install dependencies:
-   `
+   ```
      npm install
-   `
+   ```
 
 
 3. Set up environment variables:
@@ -44,8 +46,8 @@ To get started with the Article Generator DApp, follow these steps:
    
 4. Start the development server by running
 
-   `
+   ```
     npm run dev
-   `
+   ```
  
    
